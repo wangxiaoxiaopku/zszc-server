@@ -7,7 +7,7 @@
     <title>众善众筹</title>
     <link rel="stylesheet" type="text/css" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $base;?>css/main.css" />
-    <script type="text/javascript" src="main.js"></script>
+    <script type="text/javascript" src="<?php echo $base;?>main.js"></script>
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 </head>
@@ -23,7 +23,7 @@
 <div class="top">
 
     <div class="topbar1">
-        <div class="logoimg"><span><img alt="众善LOGO" src="img/allheart/logo.png.jpg"></span></div>
+        <div class="logoimg"><span><img alt="众善LOGO" src="<?php echo $base;?>img/allheart/logo.png.jpg"></span></div>
         <div class="logoinfo">
             <ul style="font-size: 15px;padding-top: 15px;font-weight: bold;" class="nav nav-pills">
                 <li><a target="_self" href="http://www.allheart.cn/">登录</a></li>
