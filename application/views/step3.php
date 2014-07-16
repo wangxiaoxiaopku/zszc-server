@@ -23,7 +23,7 @@
 <div class="top">
 
     <div class="topbar1">
-        <div class="logoimg"><span><img alt="众善LOGO" src="img/allheart/logo.png.jpg"></span></div>
+        <div class="logoimg"><span><img alt="众善LOGO" src="<?php echo $base;?>img/allheart/logo.png.jpg"></span></div>
         <div class="logoinfo">
             <ul style="font-size: 15px;padding-top: 15px;font-weight: bold;" class="nav nav-pills">
                 <li><a target="_self" href="http://www.allheart.cn/">首页</a></li>
