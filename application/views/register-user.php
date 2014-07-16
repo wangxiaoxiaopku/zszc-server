@@ -7,7 +7,7 @@
     <title>众善众筹</title>
     <link rel="stylesheet" type="text/css" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $base;?>css/main.css" />
-    <script type="text/javascript" src="main.js"></script>
+    <script type="text/javascript" src="<?php echo $base;?>main.js"></script>
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 </head>
